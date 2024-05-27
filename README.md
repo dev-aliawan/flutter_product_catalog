@@ -30,11 +30,9 @@ Flutter Product Catalog is a mobile application built with Flutter for managing 
 
 ## Screenshots
 
-![Empty Screen](https://drive.google.com/file/d/1XQqzQ5CQ1QVFIvP0wOMQA7zA4-LaWbpR/view?usp=sharing)
-![Add Product Screen](https://drive.google.com/file/d/1m3149KdXsBq_qf5yLZHqOjr9UOHIIfB4/view?usp=sharing)
-![Adding Product Screen](https://drive.google.com/file/d/1qFjd9jDvwYN9G30Ef1MOoeTeQsT7wfW6/view?usp=sharing)
-![Products List Vertical](https://drive.google.com/file/d/1MxLTSBdC-Y6lYWi5O0D7w9jnK6UO9cqa/view?usp=sharing)
-![Products List Horizontal](https://drive.google.com/file/d/1WUzIcwf7wOtTxeFh94PL92pYP5-2dKox/view?usp=sharing)
+![Empty Screen](assets/images/empty_screen.png)
+![Add Product Screen](assets/images/add_product.png)
+![Adding Product Screen](assets/images/adding_product.png)
+![Products List Vertical](assets/images/product_list_vertical.png)
+![Products List Horizontal](assets/images/product_list_horizontal.png)
 
-
-# flutter_product_catalog
